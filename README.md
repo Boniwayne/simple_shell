@@ -1,5 +1,5 @@
  C - Simple Shell
- **By Boniface Ombok, Benard Maina**
+ **By Bonface Ombok, Benard Maina**
  Project to be done in teams of 2 people (your team: Bonface, Benard)
 
 # Learning Objectives
