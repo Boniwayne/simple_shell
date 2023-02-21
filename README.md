@@ -1,6 +1,6 @@
  C - Simple Shell
- **By Spencer Cheng, featuring Julien Barbier**
- Project to be done in teams of 2 people (your team: olajide, lexis)
+ **By Boniface Ombok, Benard Maina**
+ Project to be done in teams of 2 people (your team: Bonface, Benard)
 
 # Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
